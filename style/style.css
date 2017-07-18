@@ -17,7 +17,8 @@ h1 {
   float: right; }
 
 .table {
-  font-family: "Crete Round", sans-serif; }
+  font-family: "Crete Round", sans-serif;
+  cursor: cell; }
 
 .spn {
   color: #8E2800;
